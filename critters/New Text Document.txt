@@ -1,0 +1,20 @@
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xE3BF959B) then  print("--[[Context X|R]]") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xBE8593AF) then  print("--[[INPUT_PICKUP_CARRIABLE2|R]]")  end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xEB2AC491) then  print("--[[INPUT_PICKUP_CARRIABLE|R]]")  end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0x27D1C284) then print("INPUT_LOOT3|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0x295175BF) then print("INPUT_CARRIABLE_BREAK_FREE|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0x6D1319BE) then print("INPUT_SHOP_SELL|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0x71F89BBC) then print("INPUT_INTERACT_LOCKON_CALL_ANIMAL|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0x7D326951) then print("INPUT_PLACE_CARRIABLE_ONTO_PARENT|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0x956C2A0E) then print("INPUT_MERCY_KILL|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xA1202C7B) then print("INPUT_PICKUP_CARRIABLE_FROM_PARENT|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xB5EEEFB7) then print("INPUT_MELEE_BLOCK|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xBE8593AF) then print("INPUT_PICKUP_CARRIABLE2|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xD0C1FEFF) then print("INPUT_MELEE_GRAPPLE_BREAKOUT|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xD2928083) then print("INPUT_DROP|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xE30CD707) then print("INPUT_RELOAD|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xE3BF959B) then print("INPUT_CONTEXT_X|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xEB2AC491) then print("INPUT_PICKUP_CARRIABLE|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xF63A17F9) then print("INPUT_INTERACT_LOCKON_POS|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xF6BB7378) then print("INPUT_INTERACT_POS|R") end
+if Citizen.InvokeNative(0x1BE19185B8AFE299, 0xFF8109D8) then print("INPUT_LOOT_ALIVE_COMPONENT|R") end
